@@ -19,6 +19,7 @@ main {
   flex-wrap: wrap;
   justify-content: center;
   background-color: rgb(209, 129, 25);
+  margin: 10px;
 }
 
 .head {
